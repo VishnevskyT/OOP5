@@ -21,7 +21,7 @@ public class Main {
         }
 
         System.out.println("\n\nНайкращий вчитель: " + arrayList.get(arrayList.lastIndexOf("Спирт Молекула Фазотронівна")));
-        System.out.println("\nПосередний вчитель: " + arrayList.get(1));
+        System.out.println("\nПосередній вчитель: " + arrayList.get(1));
 
         System.out.println("\n\n\nDisclaimer: Всі персонажі є вигаданими, та будь-який збіг з реально живими або померлими людьми випадковий");
     }
